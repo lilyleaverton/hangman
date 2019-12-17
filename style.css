@@ -1,0 +1,39 @@
+
+body {
+    text-align: center ;
+    background-image:url("img/forest.jpg");
+    color: white;
+    font-family: Andale Mono, monospace;
+}
+
+
+h1 {
+    text-shadow: 2px 2px 3px black ;
+    font-size: 40px ;
+    font-family: Stencil Std, fantasy ;
+    color: white ;
+}
+
+#buttons {
+    position: relative;
+    top: 275px ;
+}
+
+#output {
+    position: relative;
+    top: 170px;
+    font-size: 25px;
+}
+
+.ltrBtn {
+    font-size: 12px;
+    border-radius: 5px;
+    margin: 1px;
+    font-family: Andale Mono, monospace;
+}
+
+#img {
+    width: 120px;
+    position: relative;
+    bottom: 15px;
+}
